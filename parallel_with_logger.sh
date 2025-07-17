@@ -18,7 +18,7 @@ max_threads=2
 log_file="#specify the filename of the log file"
 
 files=(
-	# Specify the file names to run
+	# put your commands here
 )
 
 wait_time_logger=1 # in seconds
