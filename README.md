@@ -1,5 +1,5 @@
 # Bash-Parallization
-Simple bash code to run multiple instances of same code with different argument values.
+Simple shell script to run multiple instances of same code with different argument values.
 One can specify the number of "threads" or instances to run simulataneously. 
 The code then waits till the one or more of them are finished and starts the new runs.
 It is helpful for runs which are completely independent, and for someone who doesn't want to implement mpi.
